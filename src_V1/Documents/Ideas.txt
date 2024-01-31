@@ -1,0 +1,27 @@
+On lance le main : 
+
+- Menu Principal s'affiche on peut lancer une nouvelle partie avec l'un des 3 param suivants :
+
+	I) Mode safe : Les explorateurs restent groupées principalement et explorent ensemble si 60% (ou un autre %) des explorateurs meurent alors ils rentreront tous à la base (Ceux qui sont toujours en vie) , ils n'ont pas de Quotas ils explorent jusqu'a ce que toute la map soit découverte (Les trésors sont tous récup) ou % de morts.
+	
+	II) Mode bénéfice : Les explorateurs cherchent à trouver le plus possible et le plus rapidement tout les trésors de la map , ils se séparent et ne restent pas tous groupées , ils explorent aussi jusqu'a ce que toute la map soit découverte ou alors l'expédition prendra fin si il ne reste qu'un seul explorateur dans l'équipe encore en vie.
+
+	III) Mode custom : Le joueur peut rentrer manuellement le Quota , dire si ils restent groupées ou non , donner la limite ( le %) d'explorateur morts avant la fin de l'exploration
+
+	En plus de la séléction du mode , l'utilisateur peut choisir : 
+1) Les dégats des mobs.
+2) Le nombre max de Mobs qui spawnent autour d'un trésor 
+3) Le nombre d'explorateurs (3-5)
+5) 
+6)
+7)
+8)
+9)
+10)
+
+
+
+
+- Après avoir choisi les paramètres de la partie l'utilisateur peut cliquer sur un bouton "Start" qui nous ouvrira une nouvelle fenetre , celle de la simulation.
+
+- Les explorateurs spawnent dans l'entrée et commencent directement à se déplacer dans le labyrinthe pour chercher les différents trésors.
