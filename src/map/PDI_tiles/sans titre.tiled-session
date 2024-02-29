@@ -1,0 +1,59 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "tsx"
+    ],
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "map.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 531,
+                "y": 417.5
+            }
+        },
+        "tsx/Loot_tile.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tsx/Mines-Skull_Cavern_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Wall_Diggable_tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/maibe/OneDrive/Bureau/Explorateurs_Tiles",
+    "map.height": 55,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 55,
+    "openFiles": [
+        "tsx/Loot_tile.tsx",
+        "tsx/Mines-Skull_Cavern_Tiles.tsx",
+        "map.tmx"
+    ],
+    "project": "sans titre.tiled-project",
+    "recentFiles": [
+        "tsx/Loot_tile.tsx",
+        "tsx/Mines-Skull_Cavern_Tiles.tsx",
+        "map.tmx",
+        "tsx/Wall_Diggable_tile.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
