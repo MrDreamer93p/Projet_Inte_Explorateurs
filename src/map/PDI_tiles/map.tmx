@@ -2,7 +2,6 @@
 <map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="60" height="60" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="1">
  <tileset firstgid="1" source="tsx/Mines-Skull_Cavern_Tiles.tsx"/>
  <tileset firstgid="2593" source="tsx/Wall_Diggable_tile.tsx"/>
- <tileset firstgid="3673" source=":/automap-tiles.tsx"/>
  <layer id="1" name="sol" width="60" height="60">
   <data encoding="csv">
 1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,1324,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,459,
