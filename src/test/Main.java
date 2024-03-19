@@ -3,8 +3,8 @@ package test;
 import data.Explorateur;
 import data.Monstre;
 import data.Squelette;
-import data.Crab;
-import data.Ghost;
+// import data.Crab;
+// import data.Ghost;
 
 
 public class Main {

@@ -1,6 +1,5 @@
 package data;
 
-
 public class Explorateur {
     // Attributs
     private int pointsDeVie;
@@ -52,4 +51,14 @@ public class Explorateur {
     public void setRangeDetection(double rangeDetection) {
         this.rangeDetection = rangeDetection;
     }
+    public void recevoirAlerteNiveauSante() {
+        System.out.println("Alerte : Niveau de santé trop bas !");
+        // Ajoutez ici d'autres actions à entreprendre en réponse à l'alerte
+    }
+    // Méthode pour recevoir un signal de trésor de la part d'un coéquipier
+public void recevoirSignalTresor() {
+    System.out.println("Signal reçu : Un trésor a été découvert !");
+    // Autres actions à effectuer lors de la réception du signal de trésor
+}
+
 }
